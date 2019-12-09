@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "date": "09.12.2019",
+      "img": "http://www.klgtu.ru/upload/iblock/7b5/7b56ab49d3f4d7c210c62e87b9f062f0.jpg",
+      "title": "Лучший пользователь",
+      "content": "Спасибо, Во(лодя)ва :)"
+    },
+    {
       "date": "05.12.2019",
       "img": "http://www.klgtu.ru/upload/iblock/7b5/7b56ab49d3f4d7c210c62e87b9f062f0.jpg",
       "title": "В КГТУ отметили юбилей военного Ордена Святого Георгия",
